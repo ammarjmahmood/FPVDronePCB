@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MP2393buckConverter")(type "KiCad")(uri "${KIPRJMOD}/MP2393buckConverter.kicad_sym")(options "")(descr ""))
+)
