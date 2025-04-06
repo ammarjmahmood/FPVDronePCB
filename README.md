@@ -4,7 +4,7 @@ A complete open-source FPV drone with integrated flight controller, power distri
 
 ## Overview
 
-This project aims to create a high-performance FPV drone with a custom all-in-one (AIO) PCB that combines the flight controller, power distribution, and ESC functionality. Built around the STM32F411CEU6 microcontroller, this drone follows BetaFlight design requirements while providing a clean and efficient build.
+This project aims to create a FPV drone with a custom all-in-one (AIO) PCB that combines the flight controller, power distribution, and ESC functionality. Built around the STM32F411CEU6 microcontroller, this drone follows BetaFlight design requirements while providing a clean and efficient build.
 
 ## Features
 
@@ -144,4 +144,4 @@ We welcome contributions to this project! If you have suggestions, bug reports, 
 3. Submit a pull request
 
 ---
-*This FPV drone project combines the latest in drone technology with custom-designed electronics to create a high-performance, reliable platform for racing, freestyle, or aerial photography.*
+*This FPV drone project aims to combine and create a full documentation on the latest in drone technology with custom-designed electronics to create a high-performance, reliable platform for racing, freestyle, or aerial photography.*
